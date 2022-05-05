@@ -1,6 +1,4 @@
-package `class`.basic
-
-import java.util.StringJoiner
+package codes.basic
 
 /*
 介绍Kotlin最最基本的语法，包括变量，常量，数据类型等

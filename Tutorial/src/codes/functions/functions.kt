@@ -1,6 +1,4 @@
-package `class`.basic
-
-import java.util.StringJoiner
+package codes.functions
 
 fun main() {
     // 调用单行函数体函数

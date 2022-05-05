@@ -1,4 +1,4 @@
-package `class`
+package codes
 
 fun main() {
     println("hello")
